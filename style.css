@@ -1,3 +1,10 @@
 body {
     font-family: sans-serif;
 }
+
+header{
+    display: flex;
+    /* width: 100%;/ width: auto; */
+    background-color: aqua;
+    height: 20%;
+}
